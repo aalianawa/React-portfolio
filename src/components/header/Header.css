@@ -1,0 +1,29 @@
+.header-section{
+    background: #FBF7EC;
+    /* height: 500px; */
+}
+
+.img-fluid {
+margin-right: 150px !important;
+}
+
+.button{
+background-color: #756BEE;
+border-radius: white;
+color: #FFFFFF;
+border: none;
+}
+
+
+.nav-clour {
+    color: black !important;
+    font-family: 'Works sans';
+}
+
+.spam{
+    color:#756BEE ;
+}
+.heading{
+    font-family: 'Work Sans';
+    font-size: 50px;
+}

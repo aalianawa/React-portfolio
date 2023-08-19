@@ -1,0 +1,18 @@
+.card-section{
+    background: rgba(245, 244, 240, 1);
+
+}
+.feature{
+    border: 1px solid rgba(232, 232, 232, 1);
+    
+background: rgba(255, 255, 255, 1);
+padding: 20px;
+    
+}
+.card{
+    background:  rgba(120, 84, 247, 1) !important;
+    padding: 20px;
+}
+.feature-icon{
+    padding: 20px;
+}

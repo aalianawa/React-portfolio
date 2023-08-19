@@ -1,0 +1,20 @@
+.eight-card{
+    background: rgba(120, 84, 247, 1) !important;
+}
+
+
+
+.btn-prim-color{
+    background-color: rgba(255, 255, 255, 1) !important;
+    border: none;
+    font-family: 'Neue Haas Unica' ;
+}
+.text-tittle{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Outfit' !important;
+}
+.leading{
+    font-size: 50px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Outfit' !important;
+}
